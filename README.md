@@ -1,4 +1,4 @@
-# 🤖 3D Web Design (Static Website)
+# 3D Web Design (Static Website)
 
 A visually engaging **3D-themed static website**, built using only **HTML and CSS**. This project focuses purely on frontend design and creative layout—no JavaScript or dynamic behavior is included.
 
@@ -7,24 +7,8 @@ A visually engaging **3D-themed static website**, built using only **HTML and CS
 ## 🌟 Features
 
 - Modern and clean UI layout
-- 3D graphics effects using only CSS
-- Fully responsive design
+- 3D graphics effects
 - No backend or scripting—purely HTML & CSS
-
----
-  
-## 📁 Project Structure
-
-```
-Erra_AI/
-│
-├── index.html
-├── style.css
-└── assets/
-    ├── image/
-    └── screenshot/
-        └── screenshot.png
-```
 
 ---
 
@@ -59,15 +43,9 @@ cd Erra_AI
 
 ---
 
-## 📌 Note
-
-This is a design-only project meant for UI/UX practice and frontend design exploration. It doesn't include any interactive elements or backend functionality.
-
----
-
 ## 👤 Author
 
-Made by [**ERROR**](https://github.com/BD-YASSINE)
+Made by [**BADRI YASSINE**](https://github.com/badriyassine)
 
 ---
 
