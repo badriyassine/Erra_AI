@@ -4,17 +4,17 @@ A visually engaging **3D-themed static website**, built using only **HTML and CS
 
 ---
 
+## 📷 Screenshot
+
+![Website Screenshot](/assets/screenshot/Capture%20d'écran%202025-07-09%20174913.png)
+
+---
+
 ## 🌟 Features
 
 - Modern and clean UI layout
 - 3D graphics effects
 - No backend or scripting—purely HTML & CSS
-
----
-
-## 📷 Screenshot
-
-![Website Screenshot](/assets/screenshot/Capture%20d'écran%202025-07-09%20174913.png)
 
 ---
 
