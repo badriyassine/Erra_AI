@@ -48,5 +48,3 @@ cd Erra_AI
 Made by [**BADRI YASSINE**](https://github.com/badriyassine)
 
 ---
-
-Feel free to fork, clone, or build on top of this design. Any feedback is welcome!
