@@ -29,17 +29,14 @@ git clone https://github.com/BD-YASSINE/Erra_AI.git
 
 2. Open the folder:
 ```bash
-cd Erra_AI
+Launch `index.html` in your browser.
 ```
-
-3. Launch `index.html` in your browser.
-
 ---
 
 ## ⚙️ Technologies Used
 
 - HTML5
-- CSS3 (Flexbox, Grid, Transforms, 3D effects)
+- CSS3
 
 ---
 
