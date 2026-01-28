@@ -4,6 +4,12 @@ A visually engaging **3D-themed static website**, built using only **HTML and CS
 
 ---
 
+## 🌐 Live Demo
+
+👉 [See the website live](https://badriyassine.github.io/Erra_AI/)
+
+---
+
 ## 📷 Screenshot
 
 ![Website Screenshot](/assets/screenshot/Capture%20d'écran%202025-07-09%20174913.png)
