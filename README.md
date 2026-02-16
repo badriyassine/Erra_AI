@@ -4,19 +4,31 @@ A visually engaging **3D-themed static website**, built using only **HTML and CS
 
 ---
 
-## 🌐 Live Demo
+## Table of Contents
 
-👉 [See the website live](https://badriyassine.github.io/Erra_AI/)
+- [Live Demo](#live-demo)
+- [Preview image](#screenshot)
+- [Features](#features)
+- [Installation](#getting-started)
+- [Technologies Used](#technologies-used)
+- [Author](#Author)
+
 
 ---
 
-## 📷 Screenshot
+# Live Demo
+
+[See the website live](https://badriyassine.github.io/Erra_AI/)
+
+---
+
+## Screenshot
 
 ![Website Screenshot](/assets/screenshot/Capture%20d'écran%202025-07-09%20174913.png)
 
 ---
 
-## 🌟 Features
+## Features
 
 - Modern and clean UI layout
 - 3D graphics effects
@@ -24,7 +36,7 @@ A visually engaging **3D-themed static website**, built using only **HTML and CS
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To view the project:
 
@@ -39,14 +51,14 @@ Launch `index.html` in your browser.
 ```
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 
 ---
 
-## 👤 Author
+## Author
 
 Made by [**BADRI YASSINE**](https://github.com/badriyassine)
 
